@@ -10,3 +10,7 @@ let click = document.querySelector("button");
 console.log(candy);
 console.log(paragraph);
 console.log(click);
+
+let appetizer = document.querySelectorAll("h3");
+
+console.log(appetizer);
